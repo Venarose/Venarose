@@ -1,8 +1,8 @@
 ### Hi, I'm Venarose Bakidan! 👋
-🔭 I’m currently working on building my career in Logistics, Supply Chain, and Procurement in Dubai
-👯 I’m looking to collaborate on supply chain optimization, logistics operations, procurement projects, and business development initiatives
-💬 Ask me about Chemical Engineering, Global Logistics, Supply Chain Management, freight forwarding, and international business
-⚡ Fun fact: I’m a licensed Chemical Engineer from the Philippines who enjoys badminton, hiking, and exploring nature adventures
+🔭 I’m currently working on building my career in Logistics, Supply Chain, and Procurement in Dubai<br/>
+👯 I’m looking to collaborate on supply chain optimization, logistics operations, procurement projects, and business development initiatives<br/>
+💬 Ask me about Chemical Engineering, Global Logistics, Supply Chain Management, freight forwarding, and international business<br/>
+⚡ Fun fact: I’m a licensed Chemical Engineer from the Philippines who enjoys badminton, hiking, and exploring nature adventures<br/>
 
 
 ## 🌐 Socials:
@@ -15,8 +15,4 @@
 ![](https://streak-stats.demolab.com/?user=Venarose&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Venarose&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Venarose&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
